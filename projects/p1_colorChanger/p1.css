@@ -1,0 +1,22 @@
+.button{
+    display: inline-block;
+    width: 400px;
+    height: 100px;
+   
+    justify-content: center;
+    text-align: center;
+    margin: 25px;
+    font-size: large;
+}
+#Red{
+    background-color: red;
+}
+#Green{
+    background-color:green;
+}
+#Blue{
+    background-color:blue;
+}
+#Violet{
+    background-color:violet;
+}

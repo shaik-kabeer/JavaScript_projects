@@ -1,0 +1,17 @@
+.con{
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+
+}
+.clock{
+    width:max-content;
+    height:max-content;
+    display:inline-block;
+    font-size: 50px;
+    margin: 25%;
+    padding: 5%;
+    background-color: blueviolet;
+}
+ /* justify-self:center */
